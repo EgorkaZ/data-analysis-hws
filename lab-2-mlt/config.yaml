@@ -1,0 +1,9 @@
+---
+  dataset_path: "https://www.cryptodatadownload.com/cdd/Binance_BTCUSDT_d.csv"
+  look_back: 20
+  look_forward_1: 1
+  look_forward_2: 3
+  test_ratio: 0.02
+  column_to_predict: 3
+  epochs: 30
+  batch_size: 1

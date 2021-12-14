@@ -1,4 +1,3 @@
 .vscode
 */*.lock
 */.ipynb_checkpoints
-"**/__pycache__"
